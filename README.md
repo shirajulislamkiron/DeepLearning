@@ -1,6 +1,6 @@
 # DEEP LEARNING PROJECTS
 
-The files are made by ANN & CNN method. This notebook files are made for classify diffrent kind of topics such as breast cancer,
+The files are made by ANN & CNN method. This notebook files are made for classify different kind of topics such as breast cancer,
 animal detection, digit classification and many others. Those files can be used in daily files by people to detect things from images. Using images they can train and test Neural network models easily.
 
 
